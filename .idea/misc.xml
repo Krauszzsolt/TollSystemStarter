@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/../TollSystemPersistenceStorage/pom.xml" />
         <option value="$PROJECT_DIR$/../../VehicleRegister/VehicleRegisterApp/pom.xml" />
         <option value="$PROJECT_DIR$/../../VehicleRegister/PersistenceStorage/pom.xml" />
+        <option value="$PROJECT_DIR$/../VehicleRegisterPlugin/pom.xml" />
       </list>
     </option>
   </component>

@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../TollSystemConsoleUI" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../TollSystemPersistenceStorage" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../VehicleRegisterPlugin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../VehicleRegister/PersistenceStorage" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../VehicleRegister/VehicleRegisterApp" vcs="Git" />
   </component>
